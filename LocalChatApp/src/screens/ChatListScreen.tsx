@@ -1,5 +1,4 @@
 // src/screens/ChatListScreen.tsx
-
 import React, { useState } from 'react';
 import {
     View, Text, TextInput, TouchableOpacity, StyleSheet, FlatList
